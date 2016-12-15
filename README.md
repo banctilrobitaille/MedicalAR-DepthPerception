@@ -1,5 +1,5 @@
 #Medical Augmented Reality <img src="/augmented-reality.png" width="60" vertical-align="bottom">
->### Depth Perception
+### Depth Perception
 
 #### How to contribute ?
 - [X] Create a branch by feature and/or bug fix
